@@ -13,3 +13,6 @@
 [submodule "apt"]
 	path = apt
 	url = https://github.com/opscode-cookbooks/apt.git
+[submodule "application_zf"]
+	path = application_zf
+	url = https://github.com/PUGTorino/application_zf.git
