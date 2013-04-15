@@ -4,3 +4,12 @@
 [submodule "php"]
 	path = php
 	url = https://github.com/opscode-cookbooks/php.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/opscode-cookbooks/apt.git
