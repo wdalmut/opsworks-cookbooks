@@ -16,3 +16,6 @@
 [submodule "application_zf"]
 	path = application_zf
 	url = https://github.com/PUGTorino/application_zf.git
+[submodule "rsyslog"]
+	path = rsyslog
+	url = https://github.com/opscode-cookbooks/rsyslog.git
