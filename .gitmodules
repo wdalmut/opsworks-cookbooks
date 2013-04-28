@@ -19,3 +19,6 @@
 [submodule "rsyslog"]
 	path = rsyslog
 	url = https://github.com/opscode-cookbooks/rsyslog.git
+[submodule "cron"]
+	path = cron
+	url = https://github.com/opscode-cookbooks/cron.git
