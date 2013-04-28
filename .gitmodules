@@ -28,3 +28,6 @@
 [submodule "s3cmd"]
 	path = s3cmd
 	url = https://github.com/freerobby/s3cmd.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/opscode-cookbooks/yum.git
