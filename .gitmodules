@@ -22,3 +22,6 @@
 [submodule "cron"]
 	path = cron
 	url = https://github.com/opscode-cookbooks/cron.git
+[submodule "logrotate"]
+	path = logrotate
+	url = https://github.com/opscode-cookbooks/logrotate.git
