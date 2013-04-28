@@ -25,3 +25,6 @@
 [submodule "logrotate"]
 	path = logrotate
 	url = https://github.com/opscode-cookbooks/logrotate.git
+[submodule "s3cmd"]
+	path = s3cmd
+	url = https://github.com/freerobby/s3cmd.git
