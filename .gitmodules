@@ -52,3 +52,6 @@
 [submodule "chef_handler"]
 	path = chef_handler
 	url = https://github.com/opscode-cookbooks/chef_handler.git
+[submodule "hadoop"]
+	path = hadoop
+	url = https://github.com/guillermo-carrasco/hadoop.git
