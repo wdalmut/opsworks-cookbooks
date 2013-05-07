@@ -43,3 +43,9 @@
 [submodule "java"]
 	path = java
 	url = https://github.com/opscode-cookbooks/java.git
+[submodule "ant"]
+	path = ant
+	url = https://github.com/opscode-cookbooks/ant.git
+[submodule "ark"]
+	path = ark
+	url = https://github.com/opscode-cookbooks/ark.git
