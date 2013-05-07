@@ -40,3 +40,6 @@
 [submodule "hadoop"]
 	path = hadoop
 	url = https://github.com/opscode-cookbooks/hadoop.git
+[submodule "java"]
+	path = java
+	url = https://github.com/opscode-cookbooks/java.git
