@@ -37,3 +37,6 @@
 [submodule "xml"]
 	path = xml
 	url = https://github.com/opscode-cookbooks/xml.git
+[submodule "hadoop"]
+	path = hadoop
+	url = https://github.com/opscode-cookbooks/hadoop.git
