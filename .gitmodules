@@ -55,3 +55,6 @@
 [submodule "hadoop"]
 	path = hadoop
 	url = https://github.com/guillermo-carrasco/hadoop.git
+[submodule "homebrew"]
+	path = homebrew
+	url = https://github.com/opscode-cookbooks/homebrew.git
