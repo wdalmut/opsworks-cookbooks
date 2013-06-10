@@ -61,3 +61,15 @@
 [submodule "mongodb"]
 	path = mongodb
 	url = https://github.com/edelight/chef-mongodb.git
+[submodule "xfs"]
+	path = xfs
+	url = https://github.com/opscode-cookbooks/xfs.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/opscode-cookbooks/postgresql.git
+[submodule "aws"]
+	path = aws
+	url = https://github.com/opscode-cookbooks/aws.git
+[submodule "database"]
+	path = database
+	url = https://github.com/opscode-cookbooks/database.git
